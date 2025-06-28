@@ -15,6 +15,7 @@ Whether you're a beginner or revising for interviews, this repo is built to make
 
 
 Topics Covered
+
 ➤ In C
 Pointers and addresses
 
@@ -33,7 +34,8 @@ new and delete
 
 Smart pointers (unique_ptr, shared_ptr)
 
-➤About This Repo
+➤About This Repo:
+
 This is part of my learning journey to become better at C/C++ and understand low-level programming concepts.
 I use this project to explore, learn, and stay consistent by committing regularly.
 Each program is written in a simple, well-structured way with comments to explain what's happening, one concept at a time.
