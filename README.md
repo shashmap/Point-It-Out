@@ -34,7 +34,7 @@ new and delete
 
 Smart pointers (unique_ptr, shared_ptr)
 
-➤About This Repo:
+About This Repo:
 
 This is part of my learning journey to become better at C/C++ and understand low-level programming concepts.
 I use this project to explore, learn, and stay consistent by committing regularly.
@@ -43,7 +43,8 @@ From basic pointer operations to more advanced memory handling, everything is or
 It’s designed to support consistent learning and serve as a helpful reference for anyone exploring pointers.
 If this helps you or you have suggestions, feel free to contribute!
 
-How to Use
+How to Use:
+
 1.Clone the repo:
 git clone https://github.com/shashmap/Point-It-Out.git
 
