@@ -1,6 +1,6 @@
  "point-it-out"
 
->>If pointers confuse you, this repo points it all out.<<
+If pointers confuse you, this repo points it all out.
 
 This repository is a collection of simple and clear programs that demonstrate how pointers work in **C** and **C++**.  
 Each example focuses on a single concept and includes comments to make the logic easy to understand.  
@@ -19,20 +19,21 @@ Topics Covered
 ➤ In C
 Pointers and addresses
 
-Pointer arithmetic
+-Pointer arithmetic
 
-Pointers vs arrays
+-Pointers vs arrays
 
-Dynamic memory allocation (malloc, calloc, free)
+-Dynamic memory allocation (malloc, calloc, free)
 
-Function pointers
+-Function pointers
 
 ➤ In C++
-Pointers to objects and classes
 
-new and delete
+-Pointers to objects and classes
 
-Smart pointers (unique_ptr, shared_ptr)
+-new and delete
+
+-Smart pointers (unique_ptr, shared_ptr)
 
 About This Repo:
 
